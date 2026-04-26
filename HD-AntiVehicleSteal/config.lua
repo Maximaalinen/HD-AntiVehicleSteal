@@ -6,7 +6,7 @@ Config.WebhookURL  = "https://discord.com/api/webhooks/YOURSERVERSWEBHOOK"
 Config.ServerName  = "High DEVELOPMENT"
 
 -- Kick Message
-Config.KickReason  = "You tryed to steal a protected vehicle and you got kicked from the server!"
+Config.KickReason  = "You tried to steal a protected vehicle and you got kicked from the server!"
 
 -- Protected Vehicles
 Config.ProtectedVehicles = {
