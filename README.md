@@ -1,4 +1,4 @@
-# 🚨 Vehicle Protection | By High DEVELOPMENT / Maximaalinen
+# 🚨 HD-AntiVehicleSteal | By High DEVELOPMENT / Maximaalinen
 
 Are players stealing emergency or other players vehicles?
 
